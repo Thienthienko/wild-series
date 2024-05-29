@@ -1,5 +1,3 @@
-// Some data to make the trick
-
 const categories = [
   {
     id: 1,
